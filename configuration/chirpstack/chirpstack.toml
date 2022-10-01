@@ -58,7 +58,7 @@
 [network]
 
   # Network identifier (NetID, 3 bytes) encoded as HEX (e.g. 010203).
-  net_id="000000"
+  net_id="010001"
 
   # Enabled regions.
   #
@@ -95,7 +95,7 @@
   # is never exposed. Changing this secret will invalidate all login and API
   # tokens. The following command can be used to generate a random secret:
   #   openssl rand -base64 32
-  secret="you-must-replace-this"
+  secret="tZfrnx+0BfpG2Cn6+KrPsNKHZSFmUXAxbqxgvkz7yMs="
 
 
 [integration]
